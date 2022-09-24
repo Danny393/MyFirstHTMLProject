@@ -1,0 +1,23 @@
+body {
+  background-color: #606060;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: whitesmoke;
+}
+
+.cat {
+  display: flex;
+  background-color: cadetblue;
+  color: azure;
+  justify-content: space-around;
+}
+
+.kitty {
+  height: 200px;
+  width: 200px;
+}
